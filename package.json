@@ -1,6 +1,6 @@
 {
   "name": "@ashish1500616/npm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "learning how to use npm.",
   "main": "index.js",
   "scripts": {
